@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Adventures in Code"
+title = "RG Code"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -9,7 +9,6 @@ paginate = 10
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
-
 [params]
     site_author = "John Doe"
     site_description = "The awesome blog of John Doe."
@@ -17,7 +16,7 @@ theme = "hugo-minimalist-theme"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "Adventures in Code"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
@@ -36,5 +35,5 @@ theme = "hugo-minimalist-theme"
     # dribbble  = ""
     # instagram = ""
     github    = "rgcoders"
-    # gplus     = ""
+    gplus     = ""
 
