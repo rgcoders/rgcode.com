@@ -12,7 +12,7 @@ theme = "hugo-minimalist-theme"
 [params]
     site_author = "Rafael Gerena"
     site_description = "The awesome blog of John Doe."
-    location = "About Me"
+    location = "Orlando, Fl."
     # Link custom assets relative to /static
     avatar = "img/rg-color-sketch-150w.jpg"
     header_background = "img/mountains.jpg"
