@@ -10,12 +10,12 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "John Doe"
+    site_author = "Rafael Gerena"
     site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    location = "About Me"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/rg-color-sketch-150w.jpg"
+    header_background = "img/mountains.jpg"
     header_title = "Adventures in Code"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
@@ -28,12 +28,12 @@ theme = "hugo-minimalist-theme"
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = ""
+    twitter   = "@digitalexec_io"
     facebook  = ""
-    linkedin  = ""
+    linkedin  = "rafaelgerena"
     # behance   = ""
     # dribbble  = ""
     # instagram = ""
-    github    = "rgcoders"
-    gplus     = ""
+    github = "rgcoders"
+    gplus = ""
 
